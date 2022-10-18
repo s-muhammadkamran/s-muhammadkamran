@@ -3,9 +3,9 @@
 
 <p>
   <h3> 📫 Contact me: 
-    <a href="mailto:s.muhammadkamran@gmail.com" target="new"><img src="./img/emaillogo.png" height="35" width="35"></a>
-    <a href="tel:+966534325691"><img src="./img/phonelogo.png" height="35" width="35"></a>
-    <a href="https://wa.me/966534325691" target="new"><img src="./img/whatsapplogo.png" height="35" width="35"></a>
+    <a href="mailto:s.muhammadkamran@gmail.com" target="new"><img src="./img/emaillogo.png" alt="Email" height="35" width="35"></a>
+    <a href="tel:+966534325691" target="new"><img src="./img/phonelogo.png" alt="Call" height="35" width="35"></a>
+    <a href="https://wa.me/966534325691" target="new"><img src="./img/whatsapplogo.png" alt="Whatsapp" height="35" width="35"></a>
   </h3>
 </p>
 
