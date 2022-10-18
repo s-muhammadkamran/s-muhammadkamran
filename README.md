@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Muhammad Kamran Syed</h1>
-<h3 align="center">I am a seasoned IT professional, interested in exploring Data Science, Machine Learning, Blockchain, Metaverse and Frontend Development. I am originally from Pakistan but have worked all across the middle east Qatar, Kuwait, Dubai, Bahrain and Saudi Arabia. <a href="https://s-muhammadkamran.github.io/Resume/index.html" target="new"><img src="./img/resume.png" alt="Resume" height="35" width="35"></a></h3>
+<h3 align="center">I hold a Masters degree in Computer Science with 16+ years of learning and working expereince. I'm interested in exploring latest in the field of technology, namely, Data Science, Machine Learning, Blockchain, Metaverse and Frontend Development. I am originally from Pakistan but have worked all across the middle east Qatar, Kuwait, Dubai, Bahrain and Saudi Arabia. <a href="https://s-muhammadkamran.github.io/Resume/index.html" target="new"><img src="./img/resume.png" alt="Resume" height="35" width="35"></a></h3>
 
 <p>
   <h3> 📫 Contact me: 
