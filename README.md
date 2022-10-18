@@ -1,28 +1,21 @@
-<h1 align="center">Hi 👋, I am Muhammad Kamran Syed</h1>
+<h1 align="center">Hi, I am Muhammad Kamran Syed</h1>
 <h3 align="center">I am a seasoned IT professional, interested in exploring Data Science, Machine Learning, Blockchain, Metaverse and Frontend Development. I am originally from Pakistan but have worked all across the middle east Qatar, Kuwait, Dubai, Bahrain and Saudi Arabia.</h3>
 
 - 📫 Contact me via
 <p>
-  <a href="mailto:s.muhammadkamran@gmail.com" target="new"><img src="./img/emaillogo.png" alt="Email" onmouseover="showToolTip(this)" class="iconsmall"></a>
-  <a href="https://wa.me/966534325691" target="new"><img src="./img/whatsapplogo.png" alt="WhatsApp" onmouseover="showToolTip(this)" class="iconsmall"></a>
-</p>
-
-<p>
-  <a href="https://www.facebook.com/s.muhammadkamran" target="new"><img src="./img/fblogo.jpg" alt="Facebook" onmouseover="showToolTip(this)" class="iconsmall"></a>
-  <a href="https://twitter.com/Muhamma56002569" target="new"><img src="./img/twitterlogo.jfif" alt="Twitter" onmouseover="showToolTip(this)" class="iconsmall"></a>
-  <a href="https://linkedin.com/in/smkamran" target="new"><img src="./img/linkedinlogo.jfif" alt="Linkedin" onmouseover="showToolTip(this)" class="iconsmall"></a>
-  <a href="https://github.com/s-muhammadkamran" target="new"><img src="./img/gitlogo.png" alt="GitHub" onmouseover="showToolTip(this)" class="iconsmall"></a>
-  <a href="https://blogger.com/profile/10522625147563875600" target="new"><img src="./img/bloggerlogo.png" alt="Blogger" onmouseover="showToolTip(this)" class="iconsmall"></a>
-  <a href="https://stackoverflow.com/users/93963/s-m-kamran" target="new"><img src="./img/StackOverflowLogo.png" alt="Stackoverflow" onmouseover="showToolTip(this)" class="iconsmall"></a>
-  <a href="https://www.kaggle.com/muhammadkamransyed" target="new"><img src="./img/kagglelogo.webp" alt="Kaggle" onmouseover="showToolTip(this)" class="iconsmall"></a>
+  <a href="mailto:s.muhammadkamran@gmail.com" target="new"><img src="./img/emaillogo.png" height="35" width="35"></a>
+  <a href="https://wa.me/966534325691" target="new"><img src="./img/whatsapplogo.png" height="35" width="35"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/smkamran/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smkamran/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/93963/s-m-kamran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/93963/s-m-kamran" height="30" width="40" /></a>
-<a href="https://www.facebook.com/s.muhammadkamran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/s.muhammadkamran" height="30" width="40" /></a>
-<a href="https://www.facebook.com/s.muhammadkamran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/s.muhammadkamran" height="30" width="40" /></a>
+<p>
+  <a href="https://www.facebook.com/s.muhammadkamran" target="new"><img src="./img/fblogo.jpg" alt="Facebook" height="35" width="35"></a>
+  <a href="https://twitter.com/Muhamma56002569" target="new"><img src="./img/twitterlogo.jfif" alt="Twitter" height="35" width="35"></a>
+  <a href="https://linkedin.com/in/smkamran" target="new"><img src="./img/linkedinlogo.jfif" alt="Linkedin" height="35" width="35"></a>
+  <a href="https://github.com/s-muhammadkamran" target="new"><img src="./img/gitlogo.png" alt="GitHub" height="35" width="35"></a>
+  <a href="https://blogger.com/profile/10522625147563875600" target="new"><img src="./img/bloggerlogo.png" alt="Blogger" height="35" width="35"></a>
+  <a href="https://stackoverflow.com/users/93963/s-m-kamran" target="new"><img src="./img/StackOverflowLogo.png" alt="Stackoverflow" height="35" width="35"></a>
+  <a href="https://www.kaggle.com/muhammadkamransyed" target="new"><img src="./img/kagglelogo.webp" alt="Kaggle" height="35" width="35"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,15 +28,15 @@
 
 <br>
   
-<p><img align="center" style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizmuhammadrayyan&show_icons=true&locale=en&layout=compact" alt="hafizmuhammadrayyan" /><br></p>
+<p><img align="center" style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-muhammadkamran&show_icons=true&locale=en&layout=compact" alt="Muhammad Kamran Syed" /><br></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizmuhammadrayyan&show_icons=true&locale=en" alt="hafizmuhammadrayyan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=s-muhammadkamran&show_icons=true&locale=en" alt="Muhammad Kamran Syed" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmuhammadrayyan&" alt="hafizmuhammadrayyan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-muhammadkamran&" alt="Muhammad Kamran Syed" /></p>
 
 <br>
 </details>
