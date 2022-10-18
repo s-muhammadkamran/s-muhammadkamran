@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I am Muhammad Kamran Syed</h1>
 <h3 align="center">I am a seasoned IT professional, interested in exploring Data Science, Machine Learning, Blockchain, Metaverse and Frontend Development. I am originally from Pakistan but have worked all across the middle east Qatar, Kuwait, Dubai, Bahrain and Saudi Arabia.</h3>
 
-- 📫 Contact me via
 <p>
-  <a href="mailto:s.muhammadkamran@gmail.com" target="new"><img src="./img/emaillogo.png" height="35" width="35"></a>
-  <a href="https://wa.me/966534325691" target="new"><img src="./img/whatsapplogo.png" height="35" width="35"></a>
+  <h3> 📫 Contact me: 
+    <a href="mailto:s.muhammadkamran@gmail.com" target="new"><img src="./img/emaillogo.png" height="35" width="35"></a>
+    <a href="https://wa.me/966534325691" target="new"><img src="./img/whatsapplogo.png" height="35" width="35"></a>
+  </h3>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,7 +13,6 @@
   <a href="https://www.facebook.com/s.muhammadkamran" target="new"><img src="./img/fblogo.jpg" alt="Facebook" height="35" width="35"></a>
   <a href="https://twitter.com/Muhamma56002569" target="new"><img src="./img/twitterlogo.jfif" alt="Twitter" height="35" width="35"></a>
   <a href="https://linkedin.com/in/smkamran" target="new"><img src="./img/linkedinlogo.jfif" alt="Linkedin" height="35" width="35"></a>
-  <a href="https://github.com/s-muhammadkamran" target="new"><img src="./img/gitlogo.png" alt="GitHub" height="35" width="35"></a>
   <a href="https://blogger.com/profile/10522625147563875600" target="new"><img src="./img/bloggerlogo.png" alt="Blogger" height="35" width="35"></a>
   <a href="https://stackoverflow.com/users/93963/s-m-kamran" target="new"><img src="./img/StackOverflowLogo.png" alt="Stackoverflow" height="35" width="35"></a>
   <a href="https://www.kaggle.com/muhammadkamransyed" target="new"><img src="./img/kagglelogo.webp" alt="Kaggle" height="35" width="35"></a>
