@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I am Muhammad Kamran Syed</h1>
-<h3 align="center">I hold a Masters (MCS) degree in Computer Science and currently pursuing another Masters (MS) in ML & Data Science (coursework completed, capstone is in-progress), with 15+ years of learning and working expereince. I'm interested in exploring latest in the field of technology, namely, Data Science, Machine Learning, MLOps and Cloud Computing. I am originally from Pakistan but have worked all across the middle east i.e. in Qatar, Kuwait, Dubai, Bahrain and most recently in Saudi Arabia. <a href="https://s-muhammadkamran.github.io/Resume/index.html" target="new"><img src="./img/resume.png" alt="Resume" height="25" width="25"></a></h3>
+<h3 align="center">Senior technology professional with 15+ years of experience designing, building, and delivering large-scale software and data-driven systems across the Middle East, including Qatar, Kuwait, UAE, and Saudi Arabia. Holds a Master’s degree in Computer Science and is completing a second Master’s in Machine Learning & Data Science, with coursework completed and capstone in progress.</h3>
+
+<h3 align="center">Brings a strong foundation in computer science combined with applied expertise in Artificial Intelligence, Machine Learning, Data Science, Data Engineering, MLOps, and cloud-based platforms. Experienced in translating complex business and operational problems into scalable, production-ready solutions, with a focus on reliability, performance, and governance.</h3>
+
+<h3 align="center">Demonstrated ability to operate across the full lifecycle of modern AI systems, from data pipelines and model development to deployment, monitoring, and optimization in enterprise environments. Adept at working in multi-cultural, high-stake settings and aligning technology initiatives with organizational and regional priorities. <a href="https://s-muhammadkamran.github.io/Resume/index.html" target="new"><img src="./img/resume.png" alt="Resume" height="25" width="25"></a></h3>
 <hr/>
 <p>
   <h3> 📫 Contact me: 
