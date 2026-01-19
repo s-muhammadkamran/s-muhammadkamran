@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Muhammad Kamran Syed</h1>
-<h3 align="center">I hold a Masters degree in Computer Science and another Masters in ML & Data Science, with 18+ years of learning and working expereince. I'm interested in exploring latest in the field of technology, namely, Data Science, Machine Learning, Blockchain and Metaverse. I am originally from Pakistan but have worked all across the middle east Qatar, Kuwait, Dubai, Bahrain and Saudi Arabia. <a href="https://s-muhammadkamran.github.io/Resume/index.html" target="new"><img src="./img/resume.png" alt="Resume" height="25" width="25"></a></h3>
+<h3 align="center">I hold a Masters degree in Computer Science and currently pursuing another Masters in ML & Data Science (coursework completed, capstone is in-progress), with 15+ years of learning and working expereince. I'm interested in exploring latest in the field of technology, namely, Data Science, Machine Learning, Blockchain and Metaverse. I am originally from Pakistan but have worked all across the middle east Qatar, Kuwait, Dubai, Bahrain and Saudi Arabia. <a href="https://s-muhammadkamran.github.io/Resume/index.html" target="new"><img src="./img/resume.png" alt="Resume" height="25" width="25"></a></h3>
 <hr/>
 <p>
   <h3> 📫 Contact me: 
